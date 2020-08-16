@@ -1,4 +1,4 @@
-# Trombon Rosa
+# Trombón Rosa
 **Síntesis del habla al desnudo**
 
 Version 1.1, Marzo 2017
